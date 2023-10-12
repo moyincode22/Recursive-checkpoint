@@ -1,0 +1,5 @@
+STEP 1: Create a variable to store the palindrome word
+STEP 2: Go through each of the characters in the word
+STEP 3: Compare the first character to the last character
+STEP 4: If the first is equal to the last, repeat step 3
+STEP 5: If all the first and the last characters are the same, return is palindrome else return is not palindrome.
